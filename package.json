@@ -6,15 +6,15 @@
     "node-static": "^0.7.11",
     "serve-static": "^1.15.0"
   },
-  "name": "Andeep",
+  "name": "Interstellar",
   "version": "1.0.0",
-  "description": "Andeep",
+  "description": "Interstellar V4",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
     "start": "node ."
   },
   "keywords": [
-    "proxy, andeep games, andeep network, andeep"
+    "proxy, interstellar games, interstellar network, interstellar"
   ]
 }

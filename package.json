@@ -6,9 +6,9 @@
     "node-static": "^0.7.11",
     "serve-static": "^1.15.0"
   },
-  "name": "Interstellar",
+  "name": "Andeep",
   "version": "1.0.0",
-  "description": "Interstellar V4",
+  "description": "Andeep",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
